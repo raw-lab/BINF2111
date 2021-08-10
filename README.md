@@ -16,11 +16,11 @@
 </p>
 
 #### Instructors:	
-- Dr. Richard Allen White III
-Email: [mailto](mailto:rwhit101@uncc.edu)
+##### Dr. Richard Allen White III
+- Email: [mailto](mailto:rwhit101@uncc.edu)
 
-- Jose L. Figueroa
-Email: [mailto](mailto:jlfiguer@uncc.edu) 
+##### Jose L. Figueroa
+- Email: [mailto](mailto:jlfiguer@uncc.edu) 
 
 
 
