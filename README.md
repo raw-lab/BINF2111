@@ -11,16 +11,18 @@
 - Textbooks: None required for this course
 - Website for the course: https://github.com/raw-lab/BINF2111 
 
-#### Instructors:	
-- Dr. Richard Allen White III
-- Email: [mailto](mailto:rwhit101@uncc.edu)
-
-- Jose L. Figueroa
-- Email: [mailto](mailto:jlfiguer@uncc.edu) 
-
 <p align="center"> 
 <img src="image.jpg">
 </p>
+
+#### Instructors:	
+- Dr. Richard Allen White III
+Email: [mailto](mailto:rwhit101@uncc.edu)
+
+- Jose L. Figueroa
+Email: [mailto](mailto:jlfiguer@uncc.edu) 
+
+
 
 ### Course Description
 Introduction of fundamentals of programming for bioinformatics (sometimes called “scripting”) using current programming languages and paradigms.  Introduces both the language and the use of the language within a Unix environment, demonstrating how interpreted languages serve both as a useful tool for writing and testing programs interactively and as a powerful data analysis and processing tool for bioinformatics.  Hands-on computing labs in which students learn bioinformatics computing and programming are also included.
