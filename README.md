@@ -15,11 +15,11 @@
 <img src="image.jpg">
 </p>
 
-#### Instructors:	
-##### Dr. Richard Allen White III
+### Instructors:	
+#### Dr. Richard Allen White III
 - Email: [mailto](mailto:rwhit101@uncc.edu)
 
-##### Jose L. Figueroa
+#### Jose L. Figueroa
 - Email: [mailto](mailto:jlfiguer@uncc.edu) 
 
 
@@ -30,7 +30,7 @@ Introduction of fundamentals of programming for bioinformatics (sometimes called
 ### Bioinfomatic internship requirement waiver
 Students who take BINF 6399 will not need to take BINF 6400 internship to satisfy degree requirements. 
 
-#### Contact 
+### Contact 
 The point-of-contact for this project is [Dr. Richard Allen White III](https://github.com/raw-lab).<br />
 If you have any questions or feedback, please feel free to get in touch by email.  <br />
 Dr. Richard Allen White III - [mailto](mailto:rwhit101@uncc.edu) <br />
