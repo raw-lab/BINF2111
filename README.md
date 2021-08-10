@@ -25,10 +25,23 @@
 
 
 ### Course Description
-Introduction of fundamentals of programming for bioinformatics (sometimes called “scripting”) using current programming languages and paradigms.  Introduces both the language and the use of the language within a Unix environment, demonstrating how interpreted languages serve both as a useful tool for writing and testing programs interactively and as a powerful data analysis and processing tool for bioinformatics.  Hands-on computing labs in which students learn bioinformatics computing and programming are also included.
+Introduction of fundamentals of programming for bioinformatics (sometimes called “scripting”) using current programming languages and paradigms.  Introduces both the language and the use of the language within a Unix environment, demonstrating how interpreted languages serve both as a useful tool for writing and testing programs interactively and as a powerful data analysis and processing tool for bioinformatics.  Hands-on computing labs in which students learn bioinformatics computing and programming are also included. 
 
-### Bioinfomatic internship requirement waiver
-Students who take BINF 6399 will not need to take BINF 6400 internship to satisfy degree requirements. 
+### Course aims
+The aim of this course is to introduce programming methods commonly used in bioinformatics. This course introduces students to the UNIX environment, bash shell scripting, text manipulation (sed/grep/bioawk), and python scripting. Fundamentals of each scripting language are introduced in the context of real-world bioinformatics data analysis problems.
+
+### Learn objectives
+- Use and understand UNIX command line environment
+- Use built-in UNIX commands to manipulate files and data
+- Text and file manipulation (sed, grep, bioawk, python)
+- Basic knowledge and use of github
+- Use bash shell scripts to drive pipelines of bioinformatics programs
+- Use of supercomputer for running bash shell scripts (basic slurm)
+- Use python scripts to read, manipulate and write bioinformatics datafiles
+
+
+### Prerequisite
+BINF1101/1101L Introduction to Bioinformatics and Genomics
 
 ### Contact 
 The point-of-contact for this project is [Dr. Richard Allen White III](https://github.com/raw-lab).<br />
