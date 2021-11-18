@@ -1,8 +1,18 @@
 #!/bin/bash
-# Echo this is my first
-echo "Hello world! This is my first Bash script!"
-echo -n "I am executing he script with user: "
-whoami
-echo -n "I am currently running in the directory: "
-pwd
-exit 0
+
+start=ATG
+stop1=TAA
+stop2=TAG
+stop3=TGA
+
+for i in *fasta;
+do
+    echo -n "number of start codon (ATG):"
+    grep "^$start" "$i" | wc -l
+    echo -n "number of stop codon1 (TAA):"
+    grep "$stop1$" "$i" | wc -l
+    echo -n "number of stop codon2 (TAG):"
+    grep "$stop2$" "$i" | wc -l
+    echo -n "number of stop codon3 (TGA):"
+    grep "$stop3$" "$i" | wc -l
+done
