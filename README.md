@@ -19,7 +19,7 @@
 #### Dr. Richard Allen White III
 - Email: [mailto](mailto:rwhit101@uncc.edu)
 
-#### Madeline Bellanger
+#### Madeline Bellanger (Main TA)
 - Email: [mailto](mailto:mbellang@uncc.edu) 
 
 #### Jose L. Figueroa
