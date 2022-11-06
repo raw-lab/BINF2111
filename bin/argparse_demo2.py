@@ -26,8 +26,7 @@ lines = file_in.readlines()
 head = []
 seq = []
 
-# Loops through elements in lines. Assigns headers to head list and sequences to seq 
-list
+# Loops through elements in lines. Assigns headers to head list and sequences to seq list
 for line in lines:
 	line.rstrip()
 	if line[0] == ">":
