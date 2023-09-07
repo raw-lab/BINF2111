@@ -1,0 +1,106 @@
+﻿Sample,Type,Rep,Field,ImageID,Count,Quality,Notes
+FGL,EPS,R1,F1,00-E,559,high,some background EPS
+FGL,EPS,R1,F1,01-E,233,high,some large blobs
+FGL,EPS,R1,F1,02-E,361,medium,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R1,F2,00-E,598,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R1,F2,01-E,521,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R1,F2,02-E,427,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R1,F3,00-E,271,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R1,F3,01-E,460,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R1,F3,02-E,507,medium,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R1,F4,00-E,127,poor,Large blobs. low counts
+FGL,EPS,R1,F4,01-E,138,poor,Large blobs. low counts
+FGL,EPS,R1,F4,02-E,130,poor,Large blobs. low counts
+FGL,EPS,R1,F5,00-E,207,poor,Large blobs. low counts. dim
+FGL,EPS,R1,F5,01-E,120,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R1,F5,02-E,200,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R2,F1,00-E,197,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R2,F1,01-E,212,high,Few blobs. streaking EPS
+FGL,EPS,R2,F1,02-E,257,high,Few blobs. excellent
+FGL,EPS,R2,F1,03-E,301,high,Few blobs. streaking EPS
+FGL,EPS,R2,F2,00-E,419,medium,Few blobs. streaking EPS
+FGL,EPS,R2,F2,01-E,429,high,Few blobs. streaking EPS
+FGL,EPS,R2,F2,02-E,392,high,Few blobs. streaking EPS
+FGL,EPS,R2,F3,00-E,308,medium,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R2,F3,01-E,168,medium,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R2,F3,02-E,275,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R2,F4,00-E,289,high,Few blobs. streaking EPS
+FGL,EPS,R2,F4,01-E,333,medium,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R2,F4,02-E,199,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R2,F4,03-E,216,medium,Few blobs. streaking EPS
+FGL,EPS,R2,F5,00-E,422,high,excellent. few blobs. streaking EPS
+FGL,EPS,R2,F5,01-E,606,high,Few blobs. streaking EPS
+FGL,EPS,R2,F5,02-E,406,medium,Few blobs. streaking EPS
+FGL,EPS,R3,F1,00-E,NA,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R3,F1,01-E,198,high,excellent 
+FGL,EPS,R3,F1,02-E,338,medium,Few blobs. streaking EPS
+FGL,EPS,R3,F2,00-E,229,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R3,F2,01-E,101,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R3,F2,02-E,186,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R3,F3,00-E,116,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R3,F3,01-E,75,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R3,F3,02-E,240,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R3,F4,00-E,74,poor,Large blobs. low counts
+FGL,EPS,R3,F4,01-E,NA,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R3,F4,02-E,321,high,excellent 
+FGL,EPS,R3,F5,00-E,75,poor,Large blobs. streaking EPS. some background EPS
+FGL,EPS,R3,F5,01-E,NA,poor,Large blobs. some background EPS. poly-lysine
+FGL,EPS,R3,F5,02-E,NA,poor,Large blobs. some background EPS. poly-lysine
+FGL,MAT,R1,F1,00-E,146,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F1,01-E,142,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F1,02-E,120,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R1,F2,00-E,157,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F2,01-E,164,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R1,F3,00-E,NA,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F3,01-E,NA,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F3,02-E,NA,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F4,00-E,109,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F4,01-E,NA,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F4,02-E,84,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F5,00-E,75,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R1,F5,01-E,69,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R1,F5,02-E,95,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R2,F1,00-E,155,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R2,F1,01-E,131,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R2,F2,00-E,208,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F2,01-E,217,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F3,00-E,202,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F3,01-E,244,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F4,00-E,156,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F4,01-E,177,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F5,00-E,166,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R2,F5,01-E,137,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R3,F1,00-E,204,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R3,F1,01-E,201,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R3,F2,00-E,174,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R3,F2,01-E,221,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R3,F3,00-E,252,medium,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R3,F3,01-E,225,medium,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R3,F4,00-E,85,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R3,F4,01-E,190,poor,Large blobs. streaking EPS. some background EPS
+FGL,MAT,R3,F5,00-E,172,poor,Few blobs. streaking EPS. poly-lysine
+FGL,MAT,R3,F5,01-E,200,poor,Few blobs. streaking EPS. poly-lysine
+FGL,WATER,R1,F1,00-E,100,medium,Large blobs. streaking EPS. some background EPS
+FGL,WATER,R1,F1,01-E,123,high,Large blobs. streaking EPS. some background EPS
+FGL,WATER,R1,F2,00-E,160,poor,Large blobs. streaking EPS. some background EPS
+FGL,WATER,R1,F2,01-E,NA,poor,Few blobs. streaking EPS. poly-lysine
+FGL,WATER,R1,F3,00-E,145,medium,Large blobs. streaking EPS. some background EPS
+FGL,WATER,R1,F3,01-E,206,medium,Large blobs. streaking EPS. some background EPS
+FGL,WATER,R1,F4,00-E,167,poor,Few blobs. streaking EPS. poly-lysine
+FGL,WATER,R1,F4,01-E,227,poor,Few blobs. streaking EPS. poly-lysine
+FGL,WATER,R2,F4,02-E,164,medium,Large blobs. streaking EPS. some background EPS
+FGL,WATER,R1,F5,00-E,97,high,Few blobs. streaking EPS. low counts
+FGL,WATER,R1,F5,01-E,101,high,Few blobs. streaking EPS. low counts
+FGL,WATER,R1,F5,02-E,105,high,Few blobs. streaking EPS. low counts
+FGL,WATER,R2,F1,00-E,384,high,Few blobs. streaking EPS
+FGL,WATER,R2,F1,01-E,360,poor,Few blobs. streaking EPS. poly-lysine
+FGL,WATER,R2,F2,00-E,60,poor,Few blobs. streaking EPS. poly-lysine
+FGL,WATER,R2,F2,01-E,306,high,Few blobs. streaking EPS
+FGL,WATER,R2,F2,02-E,350,high,Few blobs. streaking EPS
+FGL,WATER,R2,F3,00-E,354,medium,Few blobs. streaking EPS
+FGL,WATER,R2,F4,00-E,405,poor,Few blobs. streaking EPS
+FGL,WATER,R2,F4,01-E,343,poor,Few blobs. streaking EPS
+FGL,WATER,R2,F4,02-E,246,medium,Few blobs. streaking EPS
+FGL,WATER,R2,F5,00-E,391,medium,Few blobs. streaking EPS. poly-lysine
+FGL,WATER,R2,F5,01-E,381,medium,Large blobs. streaking EPS. some background EPS
+FGL,WATER,R2,F5,02-E,240,medium,Few blobs. streaking EPS. poly-lysine
