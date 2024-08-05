@@ -1,7 +1,7 @@
 # BINF 2111/2111L - Introduction to Bioinformatics Computing
 
 - Venue: 	University of North Carolina at Charlotte (UNCC)
-- Date: 	Fall 2023
+- Date: 	Fall 2024
 - Credits: 4 credit class
 - Meeting times: T/TH 11:30-12:45, TH lab 2:30-5:15 pm EST
 - Office hours: TH 5:15-6:15 pm EST or by appointment. 
