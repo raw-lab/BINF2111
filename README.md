@@ -1,7 +1,7 @@
 # BINF 2111/2111L - Introduction to Bioinformatics Computing
 
 - Venue: 	University of North Carolina at Charlotte (UNCC)
-- Date: 	Fall 2024
+- Date: 	Fall 2026
 - Credits: 4 credit class
 - Meeting times: T/TH 11:30-12:45, TH lab 2:30-5:15 pm EST
 - Office hours: TH 5:15-6:15 pm EST or by appointment. 
@@ -18,9 +18,6 @@
 ### Instructors:	
 #### Dr. Richard Allen White III
 - Email: [mailto](mailto:rwhit101@uncc.edu)
-
-#### Madeline Bellanger (Lab Instructor)
-- Email: [mailto](mailto:mbellang@uncc.edu) 
 
 #### Andra Buchan
 - Email: [mailto](mailto:abuchan@uncc.edu) 
